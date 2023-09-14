@@ -9,9 +9,10 @@ Cryptocurrency is a digital currency in the modern finance system. It’s an end
 
 ### Project Goal:
 This project is the part of Deep Learning course during the summer semester of 2022. The main goals of the project are:
-  1. Implement an LSTM model to predict the future price of Bitcoin and Ethereum.
-  2. Calculate the RMSE value.
-  3. Choose the best parameter using hyper-parameter tuning.
+
+    1. Implement an LSTM model to predict the future price of Bitcoin and Ethereum.
+    2. Calculate the RMSE value.
+    3. Choose the best parameter using hyperparameter tuning.
 
 
 ### Project Report: 
